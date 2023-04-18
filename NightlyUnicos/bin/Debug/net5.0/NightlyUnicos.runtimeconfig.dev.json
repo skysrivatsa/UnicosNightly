@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\INPRSRI4\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\INPRSRI4\\.nuget\\packages"
+    ]
+  }
+}
